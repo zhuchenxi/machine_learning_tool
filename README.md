@@ -6,7 +6,7 @@ May be not efficient, but simple.
 Average perceptron
 
 # Short-term goal #
-Logistic Regression, Maxent
+Naive Bayes, Logistic Regression, Maxent
 
 # Long-term goal #
 CRF, LDA...
